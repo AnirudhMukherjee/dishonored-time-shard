@@ -1,2 +1,2 @@
 # Screen Cap
-![Gif](https://github.com/AnirudhMukherjee/dishonored-time-shift/screen1.gif)
+![Gif](/screen1.gif?raw=true "Time Shift")
